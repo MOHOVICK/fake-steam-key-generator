@@ -1,0 +1,5 @@
+# Folders Ignore
+.venv
+
+# Files ignore
+keys.txt
